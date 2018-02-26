@@ -111,66 +111,27 @@ image: Web128x128.jpg
             </div>
     </section>
 
-    {% include newsletter.html %}
-
-<section id="convidados" class="panel grey darken-4">
-    <div class="container grey lighten-4" style="">
-      <div class="row ">
-        <div class="col s12 sm-font blue-grey-text ">
-          <span style="display: inline-block; padding:10px ">Convidados<a name="convidados"></a></span>
-        </div>
-      </div>
-
-      <div class="row" style="padding: 0 10px; margin-bottom: 0;">
-
-          {% for convidado in site.convidados %}
-                      <a href="{{ convidado.url }}">
-                          <img class="responsive-img center" src="{{ site.baseurl}}/convidados/{{ convidado.image }}-thumb.jpg" style="padding: 3px;" alt="{{ convidado.title }}" width="100" height="100">
-                      </a>
-          {% endfor %}
-
-      </div> <!-- row -->
-
-    </div>
-  </section>
-
     <section class="panel blue-grey darken-4" id="noticias" >
         <div class="container" style="padding: 30px 10px">
             <div class="row">
-  {% for post in site.categories.noticias limit: 5 %}
+  {% for post in site.posts %}
                 <div class="col s12 m6 l4">
                     <div class="card large">
                         <div class="card-image">
-                            <a href="{{ post.url }}">
+                            <a href="{{ site.baseurl }}{{ post.url }}">
                                 <img src="images/thumbs/{{ post.image }}" style="max-height: 200px">
                             </a>
                         </div>
                         <div class="card-content">
-                            <span class="card-title blue-text text-darken-4 xs-font"><a href="{{ post.url }}">{{ post.title }}</a></span>
+                            <span class="card-title blue-text text-darken-4 xs-font"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
                             <p>{{ post.excerpt }}</p>
                         </div>
                         <div class="card-action">
-                            <a href="{{ post.url }}">saiba mais</a>
+                            <a href="{{ site.baseurl }}{{ post.url }}">saiba mais</a>
                         </div>
                     </div>
                 </div>
   {% endfor %}
-                <div class="col s12 m6 l4">
-                    <div class="card large">
-                        <div class="card-image">
-                            <a href="todas_noticias.html">
-                                <img src="images/thumbs/artigos.jpg" style="max-height: 200px">
-                            </a>
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title blue-text text-darken-4 xs-font"><a href="todas_noticias.html">Veja todas as notícias</a></span>
-                            <p>Na página principal estão somente as 5 notícias mais recentes. Clique abaixo para ver todas</p>
-                        </div>
-                        <div class="card-action">
-                            <a href="todas_noticias.html">saiba mais</a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -184,22 +145,6 @@ image: Web128x128.jpg
 
     <div id="patrocinioFooter"></div>
 
-    <section class="panel grey lighten-4">
-        <div class="container grey lighten-4">
-            <div class="row">
-                <div class="col s6 m6 l6" style="padding: 15px">
-                    <span class="xs-font grey-text text-darken-4 flow-text">Páginas Amigas</span>
-                </div>
-                <div class="col s6 m6 l6">
-                    <span class="xs-font grey-text text-darken-4 flow-text right"><a href="{{site.baseurl}}/participar-paginas-amigas.html">participe</a></span>
-                </div>
-            </div>
-            <div class="carousel">
-                {% include paginas-amigas.html %}
-            </div>
-        </div>
-    </section>
-    
     <section class="panel grey lighten-4">
         <div class="container grey lighten-4">
             <div class="row">

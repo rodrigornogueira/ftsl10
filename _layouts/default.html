@@ -14,12 +14,8 @@
   <meta property="og:title" content="{{ page.title }} - FTSL" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  {% assign imagepath = "/images/thumbs/" | append: page.image" %}
+  {% assign imagepath = "/images/thumbs/" | append: "page.image" %}
   {% assign pageurl = page.url %}
-  {% if pageurl contains 'convidados' %}
-  	{% assign imagepath = "/convidados/" | append: page.image" %}
-  	{% assign imagepath = imagepath | append: "-thumb.jpg" %}
-  {% endif %}  
   <meta property="og:image" content="{{ site.url }}{{ imagepath }}"/>
   <meta property="og:description" content="{{ page.excerpt }}" />
   <meta property="og:determiner" content="a" />

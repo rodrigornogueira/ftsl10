@@ -5,7 +5,6 @@ url: "http://ftsl.org.br" # the base hostname & protocol for your site, e.g. htt
 twitter_username: "forumslcuritiba"
 github_username:  "ftslorgbr"
 github_repo: "ftsl10"
-theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown

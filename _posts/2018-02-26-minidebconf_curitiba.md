@@ -2,7 +2,7 @@
 layout: post
 title: Vem aí a MiniDebConf Curitiba 2018
 excerpt: A MiniDebConf Curitiba 2018 acontecerá de 11 a 14 de abril no Campus central da UTFPR
-image: artigos.jpg
+image: minidebconf.jpg
 ---
 Está confirmada a 3a edição do maior encontro brasileiro de usuários e desenvolvedores Debian.
 A MiniDebConf Curitiba 2018 acontecerá de 11 a 14 de abril no Campus central da UTFPR - Universidade Tecnológica Federal do Paraná em Curitiba - PR.

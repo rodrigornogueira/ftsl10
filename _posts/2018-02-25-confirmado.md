@@ -2,8 +2,10 @@
 layout: post
 title: FTSL 2018 confirmado!
 excerpt: Em breve será divulgada a data de realização do evento
-image: artigos.jpg
+image: confirmado.jpg
 ---
+
+![Da esquerda para direita: Marcos, Alisson e Flavio]({{ site.baseurl }}/images/confirmado.jpg)
 
 No dia 15 de fevereiro, o coordenador do Comitê de Software Livre do Serviço de Processamento de Dados em Curitiba, Alisson Coelho, e Flávio Lisboa, um dos membros do Comitê e frequente palestrante e instrutor do FTSL, participaram de uma reunião com o novo diretor do campus Curitiba da Universidade Tecnológica Federal do Paraná, o professor-doutor Marcos Flávio de Oliveira Schiefler Filho. Nesta reunião, ambos solicitaram o apoio do diretor para a continuidade da realização do evento nas instalações da universidade.
 

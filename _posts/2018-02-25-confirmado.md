@@ -1,7 +1,7 @@
 ---
 layout: post
-title: FTSL2018 confirmado!
-excerpt: Serah novamente na UTFPR.
+title: FTSL 2018 confirmado!
+excerpt: Em breve será divulgada a data de realização do evento
 image: artigos.jpg
 ---
 

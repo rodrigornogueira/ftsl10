@@ -1,0 +1,18 @@
+title: X Fórum de Tecnologia em Software Livre
+description: "O maior evento gratuito de Software Livre do país."
+baseurl: "/ftsl10" # the subpath of your site, e.g. /blog
+url: "http://ftsl.org.br" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "forumslcuritiba"
+github_username:  "ftslorgbr"
+github_repo: "ftsl10"
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+feed:
+  path: rss.xml

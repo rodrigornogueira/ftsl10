@@ -1,6 +1,8 @@
 # Fórum de Tecnologia em Software Livre - FTSL
 Parte estática do Site do FTSL - Fórum de Tecnologia em Software Livre (http://ftsl.org.br)
 
+Esse repositório também está disponível como git-ssb (%QUAzQIcYgdYew01Xouch0DQsg8V2m6HoWDUMiEMqhcA=.sha256). 
+
 Colabore com código do site:
 * enviando correções para as [Issues](https://github.com/ftslorgbr/ftslorgbr.github.io/issues);
 * reportando erros encontrados no site em [Issues](https://github.com/ftslorgbr/ftslorgbr.github.io/issues); e

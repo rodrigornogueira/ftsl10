@@ -14,3 +14,5 @@ Para viabilizar a realização da MiniDebConf estamos com uma campanha de financ
 
 Para mais informações e inscrição gratuita:
 [http://minidebconf.curitiba.br](http://minidebconf.curitiba.br)
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

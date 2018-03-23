@@ -16,3 +16,5 @@ O alinhamento do diretor com a temática do evento pode ser percebido por uma de
 Assim, o Programa Serpro de Software Livre prossegue sua atuação em parceria com a Universidade Tecnológica Federal do Paraná, na realização do maior evento gratuito de software livre do Brasil, aberto para toda a comunidade.
 
 Em breve será divulgada a data de realização do evento em 2018.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

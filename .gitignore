@@ -1,2 +1,5 @@
 _site/
 saas_cache/
+.project
+.settings/
+.buildpath

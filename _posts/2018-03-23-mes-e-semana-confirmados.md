@@ -2,7 +2,7 @@
 layout: post
 title: O FTSL 2018 será em OUTUBRO!
 excerpt: Em breve serão divulgados os dias e os espaços
-image: fachada_utfpr.jpg
+image: fachada_utfpr.png
 ---
 
 ![Fachada do campus da UTFPR no centro de Curitiba]({{ site.baseurl }}/images/fachada_utfpr.jpg)

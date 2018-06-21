@@ -30,7 +30,7 @@ Os trabalhos poderão ser submetidos até 31 de Julho de 2018.
 
 ## Instruções aos autores
 
-A submissão de artigos será feita exclusivamente por meio eletrônico. Para enviar seu trabalho, faça [login](http://sistema.ftsl.org.br/ftsl10) (acessando com os dados da edição passada ou criando uma conta).
+A submissão de artigos será feita exclusivamente por meio eletrônico. Para enviar seu trabalho, faça [login](https://ftsl.websiteseguro.com/ftsl10) (acessando com os dados da edição passada ou criando uma conta).
 
 Lembrando que é um evento gratuito e que cada palestrante ou instrutor deve arcar com todos os custos envolvidos (tais como deslocamento, hospedagem, alimentação, etc).
 

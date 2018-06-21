@@ -14,6 +14,6 @@ Jovens, pais e professores estão convidados a conhecer o Scratch no X FTSL em u
 
 A chamada de trabalhos do X FTSL também está aberta para propostas de palestras sobre relatos de experiência com Scratch e oficinas usando a plataforma com exercícios que estimulem a criatividade e o trabalho coletivo.
 
-A submissão de trabalhos será feita exclusivamente por meio eletrônico. Para enviar seu trabalho, faça [login](http://sistema.ftsl.org.br/ftsl10) (acessando com os dados da edição passada ou criando uma conta).
+A submissão de trabalhos será feita exclusivamente por meio eletrônico. Para enviar seu trabalho, faça [login](https://ftsl.websiteseguro.com/ftsl10) (acessando com os dados da edição passada ou criando uma conta).
 
 Lembrando que é um evento gratuito e que cada palestrante ou instrutor deve arcar com todos os custos envolvidos (tais como deslocamento, hospedagem, alimentação, etc).

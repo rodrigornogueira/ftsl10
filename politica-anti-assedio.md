@@ -23,7 +23,7 @@ Nós esperamos que todos/as participantes sigam as orientações gerais deste do
 
 ##### Licença e Atribuição
 
-Esta política está licenciada através da Creative Commons – Brasil - Zero (Domínio Público) e foi baseada na [política anti-assédio do VI Fórum de Tecnologia em Software Livre (FTSL)](http://sistema.ftsl.org.br/2014/politica-anti-assedio), que por sua vez foi baseada na [política anti-assédio do wiki “Feminist Geek”](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), criada pela [Ada Initiative](http://adainitiative.org/) com a ajuda de várias voluntárias e voluntários.
+Esta política está licenciada através da Creative Commons – Brasil - Zero (Domínio Público) e foi baseada na [política anti-assédio do VI Fórum de Tecnologia em Software Livre (FTSL)](https://ftsl.websiteseguro.com/2014/politica-anti-assedio), que por sua vez foi baseada na [política anti-assédio do wiki “Feminist Geek”](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), criada pela [Ada Initiative](http://adainitiative.org/) com a ajuda de várias voluntárias e voluntários.
 
 Esta política foi baseada em várias outras políticas antiassédio, incluindo a política da Ohio LinuxFest, escrita por Esther Filderman e Beth Lynn, e a Con Anti-Harassment Project.
 
@@ -48,7 +48,7 @@ Esperamos que todos los participantes sigan las orientaciones generales de este 
 
 ##### Licencia e Asignación
 
-Esta política está licenciada a través de Creative Commons - Brasil - Zero (Dominio Público) y se ha basado en [política contra el acoso del VI Fórum de Tecnologia em Software Livre (FTSL)](http://sistema.ftsl.org.br/2014/politica-anti-assedio), que a su vez se basó en la [política contra el acoso del wiki “Feminist Geek”](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), creada pela [Ada Initiative](http://adainitiative.org/) con la ayuda de varias voluntarias y voluntarios.
+Esta política está licenciada a través de Creative Commons - Brasil - Zero (Dominio Público) y se ha basado en [política contra el acoso del VI Fórum de Tecnologia em Software Livre (FTSL)](https://ftsl.websiteseguro.com/2014/politica-anti-assedio), que a su vez se basó en la [política contra el acoso del wiki “Feminist Geek”](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), creada pela [Ada Initiative](http://adainitiative.org/) con la ayuda de varias voluntarias y voluntarios.
 
 Esta política se basó en varias otras políticas contra el acoso, incluyendo la política de Ohio LinuxFest, escrita por Esther Filderman y Beth Lynn, y el Con Anti-Harasment Project.
 

@@ -8,7 +8,7 @@ excerpt: Israel Oliveira
 
 ### Palestra: Como Crescer Rápido e Hackear a Carreira
 
-- Direcionar nas possibilidades de conseguir um emprego rÃĄpido dentro de um cenário de mudanças constantes
+- Direcionar nas possibilidades de conseguir um emprego rápido dentro de um cenário de mudanças constantes
 - Orientar na definição do que realmente é importante pra vocês
 - Esclarecer o que são soft skills e como você pode aprimorar o relacionamento com seres humanos
 

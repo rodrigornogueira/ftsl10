@@ -8,7 +8,7 @@ excerpt: Giovani Ferreira
 
 ### Palestra: Colabore com projetos de Software Livre e impulsione sua carreira
 
-A grande preocupação de quem está terminando a graduação é: Como entrar no mercado se ainda nÃĢo tenho experiência?
+A grande preocupação de quem está terminando a graduação é: Como entrar no mercado se ainda não tenho experiência?
 As relações de trabalho nas carreiras tecnológicas estão cada vez mais dinâmicas e hoje precisamos de mais habilidades para trabalhar em equipe e de forma colaborativa. Conheça as vantagens ao se envolver com a comunidade de Software Livre e como isto pode influenciar no seu futuro profissional.
 
 #### Currículo

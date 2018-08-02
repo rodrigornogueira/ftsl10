@@ -12,4 +12,6 @@ Introdução ao processo de criação publicitário usando as ferramentas Inksca
 
 #### Currículo
 
-Publicitário especializado em design gráfico, consultor em comunicação para empresas e indústrias. Participa da comunidade Curitiba Livre. Criador da identidade visual do Flisol 2017/2018 e MiniDebConf 2017. Mais informações https://www.linkedin.com/in/angelowz/
+Cursou Publicidade e Propaganda pela ESPM - RJ. Foi professor de Artes Gráficas no SENAC. Fundador da Agência Pipa Publicidade, onde atuou como diretor de criação em campanhas para clientes do varejo, indústria, comércio e Instituições. Designer responsável pela identidade visual do Flisol 2017 e MinidebConf 2018. Hoje é consultor de Comunicação Institucional para diversas empresas no Paraná, RIo de Janeiro e Maranhão.
+
+Mais informações https://www.linkedin.com/in/angelowz/

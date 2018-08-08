@@ -14,3 +14,6 @@ Conheça o projeto Open Street Maps, uma alternativa Livre ao Google Maps. Const
 
 Profissional de informática há mais de 25 anos, atuando em empresas como Siemens, HSBC, Exxon Mobil. Atua principalmente na substituição de software da plataforma Microsoft por opções livres.
 
+<a href="{{ site.baseurl }}/index.html">Voltar</a>
+
+

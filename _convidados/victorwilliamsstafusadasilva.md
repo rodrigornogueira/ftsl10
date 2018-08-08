@@ -43,3 +43,5 @@ Muita gente que aprendeu Java não conseguiu acompanhar mais as mudanças que a 
 * 5 certificações Java.
 * Um dos usuários mais ativos no Stack Overflow em Português - https://pt.stackoverflow.com/users/132/victor-stafusa.
 * Funcionário público da Prefeitura de São Paulo.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

@@ -13,3 +13,5 @@ O incentivo ao uso de _Software_ Livre através das politicas públicas do Gover
 #### Currículo
 
 Técnico em Informática do Serviço Federal de Processamento de Dados, SERPRO, Graduação em Tecnologia da Informação e especialização em engenharia de _Software_ pela PUC Paraná, especialização em Gestão Pública pela Universidade Federal do Rio Grande do Sul e vice coordenador do comitê de software livre do SERPRO, regional Curitiba.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

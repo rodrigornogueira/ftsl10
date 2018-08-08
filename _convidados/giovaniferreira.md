@@ -14,3 +14,5 @@ As relações de trabalho nas carreiras tecnológicas estão cada vez mais dinâ
 #### Currículo
 
 Giovani Ferreira é Professor, possui graduaão em Tecnologia em Redes de Computadores pelo CESEP/FEM (2009). Ativista do Software Livre, é Desenvolvedor Debian participando principalmente do time Debian Security Tools e auxilia na organização de eventos Debian no Brasil.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

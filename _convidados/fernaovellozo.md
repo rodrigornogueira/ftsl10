@@ -35,3 +35,5 @@ O objetivo deste minicurso é ensinar como se pode criar, assinar e gerenciar ce
 #### Currículo
 
 Professor de história que virou sysadmin. Usuário de Linux desde 1999 e entusiasta de software livre e tecnologias não-liberticidas. Palestrante do FISL, CryptoRave e de semanas acadêmicas na UFPR e na UTFPR.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

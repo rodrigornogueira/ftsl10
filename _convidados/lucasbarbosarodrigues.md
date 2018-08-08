@@ -14,3 +14,4 @@ React Native é um framework do Facebook para a construção de aplicações nat
 
 Desenvolvedor Júnior. Curso superior completo em Tecnologia em Análise e Desenvolvimento de Sistemas. Experiencia: Android, Java, Desenvolvimento Web, Framework Laravel.
 
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

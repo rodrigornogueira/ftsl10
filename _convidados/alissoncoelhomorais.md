@@ -21,3 +21,5 @@ Sobre esse sistema de controle de versao distribuido abordarei os tópicos:
 #### Currículo
 
 Usuario de git há mais de 5 anos. Um dos idealizadores da migração da parte estática do site do FTSL para GitHub Pages em 2016. Seu blog pessoal, tambem no GitHub Pages, é atualizado via git. No trabalho utiliza GitLab interno para alguns projetos.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

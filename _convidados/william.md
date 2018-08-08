@@ -14,3 +14,5 @@ Nesta palestra serão apresentados os tipos de projetos de Business Intelligence
 
 Profissional com mais de quinze anos de experiência na área de TI. Possui grande vivência em ambientes de desenvolvimento de projetos onde já atuou como programador, analista de sistemas, administrador/desenvolvedor de banco de dados e analista de business Intelligence.
 Entusiasta de atividades nas áreas de: banco de dados, performance tuning, sql, nosql, newsql, business intelligence, big data, data mining e metodologias para desenvolvimento de projetos.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

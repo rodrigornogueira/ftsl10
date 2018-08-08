@@ -13,3 +13,5 @@ Apresento um levantamento de fatores sociais, psicológicos e culturais que se m
 #### Currículo
 
 Meu nome é Ana Maria Ferreira Lemes. Sou graduada em matemática, pela UFMT. Tenho especialização em Educação, Diversidade e Inclusão Social pela UCDB. Aluna especial de mestrado da UNIFESP e do grupo de pesquisa GHEMAT em história da educação matemática. Sou professora eventual pelo Estado de são Paulo, dando aulas em duas escolas do municÃ­pio de são Paulo.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

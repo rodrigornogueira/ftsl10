@@ -13,3 +13,5 @@ SmartCash é uma moeda baseada em blockchain, governança, cooperação e cresci
 #### Currículo
 
 Formação desde 2000, Bacharel em Sistemas de Informação (2006) atua em TIC no setor público/privado - graduado em Processos Gerenciais (2016) e pós-graduado em Gestão Pública (2017). Atuo em fóruns e encontros de cultura livre desde 2012. Experiência profissional concentra-se principalmente em servidores Win/Linux, redes e inovações em teleinformática. Dedicado tempo estudando e desenvolvendo soluções para o mundo das criptomoedas, reproduzido filosofia livre/disruptiva.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

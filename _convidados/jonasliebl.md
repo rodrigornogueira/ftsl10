@@ -14,3 +14,5 @@ O software R se destaca como uma ferramenta estatÃ­stica e esse estigma já é
 #### Currículo
 
 JONAS LIEBL, 61 anos, formado em Ciências Contábeis com especialização em Finanças, Engenharia Econômica e MBA em Padrões Internacionais de Auditoria Interna. Economiário, atualmente Auditor e Instrutor na Auditoria Regional Curitiba, exerceu as funções de Gerente Financeiro e de Chefe de Divisão de Contabilidade de Habitação e Hipoteca, Divisão de Contabilidade de Aplicações e Divisão Financeira, na Superintendência Regional do Paraná da Caixa Econômica Federal.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

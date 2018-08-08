@@ -13,3 +13,5 @@ Já ouviu falar sobre o Docker? Imaginamos que já! E isso porque essa ferrament
 #### Currículo
 
 Graduado no curso de Tecnologia em Sistemas para a Internet (UTFPR-GP). Com pouco mais de 5 anos de experiência trabalhando com desenvolvimento de software. Membro da comunidade PHP-SC e mentor pelo Training Center. Apaixonado por compartilhar conhecimento, já tendo se apresentado em eventos como TDC, Laraconf, FTSL e outros. Atualmente trabalha como CTO na empresa Letsgrow Sistemas na cidade de Guarapuava/PR.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

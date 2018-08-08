@@ -26,5 +26,7 @@ Consultor e integrador do OpenBSD para ambientes embarcados.
 Palestrante do OpenBSD desde 2015 no FTSL e na Cryptorave 2016 e 2018.
 Formação acadêmica em Psicologia (PUC-SP).
 
+<a href="{{ site.baseurl }}/index.html">Voltar</a>
+
 
 

@@ -16,3 +16,5 @@ Referenciais: levantamentos do Fórum Nacional pela Democratização das Comunic
 #### Currículo
 
 Wagner de Alcântara Aragão, jornalista e professor. Mestre em Estudos de Linguagens. Editor geral e mantenedor da Rede Macuco - Mí­dia e Cursos. Docente da rede estadual de ensino técnico do Paraná.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

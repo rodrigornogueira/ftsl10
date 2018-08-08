@@ -17,3 +17,5 @@ Apresentaremos a certificação LibreOffice da The Document Foundation para prof
 #### Currículo
 
 Professor na Etec Embu e Cotia. Sócio na Speedy English, Escola de Inglês Online. Formado em Administração de Empresas. Especialista em Educação Profissional e Tecnológica e Gestão de Projetos. Mestrando em Direção e Administração de Negócios, no Uruguai. Autor do ebook LibreOffice Para Leigos e co-autor do ebook LibreOffice Calc Avançado. Membro da Comunidade LibreOffice Brasil, atuando na divulgação do aplicativo, através de palestras em faculdades e eventos e escrevendo artigos. Membro da TDF (The Document Foundation), entidade responsável pelo LibreOffice
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

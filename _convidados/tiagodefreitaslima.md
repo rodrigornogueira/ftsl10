@@ -13,3 +13,5 @@ Vivemos na Era dos Dados, e a extração de informações relevantes a partir de
 #### Currículo
 
 Desenvolvedor de software desde 2005, com grande experiência em aplicações para diversos segmentos e especialmente aplicações web. Desenvolvedor fullstack, atuo no front-end (linguagem Javascript e vários frameworks), back-end (especialmente com Java e Scala, e larga experiência com sistemas distribuídos e APIs), infraestrutura, e desenvolvimento mobile. Atualmente trabalho com BigData e processamento de grandes volumes de dados, focado especialmente em processamento real-time.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

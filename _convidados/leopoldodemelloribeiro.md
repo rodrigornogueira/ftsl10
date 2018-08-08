@@ -13,3 +13,5 @@ Introdução ao módulo NRF24L01+ transceiver 126 canais, Conhecendo o Arduí­n
 #### Currículo
 
 Analista de Sistemas/Suporte, mais de 30 anos na área de TI, atualmente trabalhando na área de big-data no Serpro do RJ, conhecimentos e certificações em Sistemas Operacionais, Windows, Virtualização VMware, ambientes em nuvem e Linux Avançado (device drivers), estudos e conhecimentos práticos em eletrônica desde 1979, sistemas embarcados, sensores, comunicação de dados - em rede e via rádio.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

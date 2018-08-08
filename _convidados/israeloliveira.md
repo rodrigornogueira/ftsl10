@@ -17,4 +17,5 @@ excerpt: Israel Oliveira
 
 Atualmente meu foco é no frontend e em todas as novas tecnologias que envolvem esse universp "client side developer". Estudo diariamente a linguagem JavaScript e tenho focado o aprendizado prático em WebComponents e Progressive Web Apps. Desenvolvo websites desde a década passada, e nos ultimos 3 anos foquei minha atenção para habilidades de gestão, interpessoais e na experiência do usuario.
 
+<a href="{{ site.baseurl }}/index.html">Voltar</a>
 

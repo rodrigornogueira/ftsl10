@@ -25,3 +25,5 @@ Trabalho como Analista de TIC no SERPRO.
 Trabalhei na Educação em instituições como SOCIESC, FAESP, FAE, FACSUL e SESI, tendo atuado tambÃĐm como Diretor no Instituto de Teologia Ágape.
 
 Participo ativamente do incentivo, implantação e manutenção de instalações do Moodle nos lugares onde tenho atuado.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

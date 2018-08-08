@@ -15,3 +15,5 @@ Nesta palestra iremos mostrar como criar uma aplicação android com o Kotlin, b
 * Tecnologia em Sistemas para Internet na UTFPR de Guarapuava 
 * Desenvolvedor Android e JavaEE a aproximadamente 1 ano na Teorema Sistemas * Desenvolvedor e entusiasta Angular desde o lançamento de sua primeira versão estável 
 * Palestrante do minicurso "Angular: Um novo conceito de desenvolvimento Front-end" na UTFPR - Guarapuava
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

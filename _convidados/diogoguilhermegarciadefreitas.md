@@ -13,3 +13,5 @@ Este mini-curso é uma introdução à linguagem Perl. Apesar de ser considerada
 #### Currículo
 
 Engenheiro de Diagnóstico & Verificação na Volvo do Brasil. Formado em Engenharia de Computação pela UTFPR Curitiba, com um ano de intercâmbio acadêmico na UNSW Austrália, listada entre as 50 melhores universidades do mundo. Acumula experiência profissional na Austrália, como desenvolvedor web, e na Alemanha como desenvolvedor de sistemas embarcados automotivos, incluindo desenvolvimento de software embarcado para veí­culos autônomos.
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

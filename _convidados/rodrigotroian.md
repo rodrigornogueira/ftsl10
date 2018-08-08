@@ -13,3 +13,5 @@ O objetivo dessa palestra é discutir sobre infraestrutura de redes livres e des
 #### Currículo
 
 Administrador de sistemas e redes mistas a quase duas décadas, vêm adquirindo experiência em produção de eventos e como ministrante de cursos e palestras nos últimos anos, tendo como foco tecnologias e sistemas livres, embarcados e de baixo consumo, é um pesquisador de wireless e seus impactos sociais em redes autogestionadas. Atualmente está tentando juntar tudo que fez antes para pensar em IOT!
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

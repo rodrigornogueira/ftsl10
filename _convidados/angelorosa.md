@@ -15,3 +15,5 @@ Introdução ao processo de criação publicitário usando as ferramentas Inksca
 Cursou Publicidade e Propaganda pela ESPM - RJ. Foi professor de Artes Gráficas no SENAC. Fundador da Agência Pipa Publicidade, onde atuou como diretor de criação em campanhas para clientes do varejo, indústria, comércio e Instituições. Designer responsável pela identidade visual do Flisol 2017 e MinidebConf 2018. Hoje é consultor de Comunicação Institucional para diversas empresas no Paraná, RIo de Janeiro e Maranhão.
 
 Mais informações https://www.linkedin.com/in/angelowz/
+
+<a href="{{ site.baseurl }}/index.html">Voltar</a>

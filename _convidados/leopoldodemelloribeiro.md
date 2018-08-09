@@ -4,7 +4,7 @@ title: Leopoldo de Mello Ribeiro
 image: leopoldodemelloribeiro
 excerpt: Leopoldo de Mello Ribeiro
 ---
-![Leopoldo de Mello Ribeiro]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Leopoldo de Mello Ribeiro" height="300" width="300"/></p>
 
 ### Minicurso: Comparativo das tecnologias na transmissão de dados via rádio, com os NRF24L01+, e o LoRa SX1278
 

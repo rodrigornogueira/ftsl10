@@ -4,7 +4,7 @@ title: Jeziel Pereira
 image: jezielpereira
 excerpt: Jeziel Pereira
 ---
-![Jeziel Pereira]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Jeziel Pereira" height="300" width="300"/></p>
 
 ### Palestra: Moodle como Ambiente Virtual de Aprendizagem
 

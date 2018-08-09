@@ -4,7 +4,7 @@ title: André Avelino da Costa Santos
 image: andreavelinodacostasantos
 excerpt: André Avelino da Costa Santos
 ---
-![André Avelino da Costa Santos]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="André Avelino da Costa Santos" height="300" width="300"/></p>
 
 ### Palestra: Gestão de segredos com Vault
 

@@ -4,7 +4,7 @@ title: Alexandre Dorazio
 image: alexandredorazio
 excerpt: Alexandre Dorazio
 ---
-![Alexandre Dorazio]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Alexandre Dorazio" height="300" width="300"/></p>
 
 
 ### Palestra: Fronteiras com VPNs no OpenBSD

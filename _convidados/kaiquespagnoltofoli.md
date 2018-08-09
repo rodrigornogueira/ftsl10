@@ -4,7 +4,7 @@ title: Kaique Spagnol Tofoli
 image: kaiquespagnoltofoli
 excerpt: Kaique Spagnol Tofoli
 ---
-![William]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="William" height="300" width="300"/></p>
 
 ### Palestra: Sistema Operacional Linux - Desenvolvimento e Distribuição 
 

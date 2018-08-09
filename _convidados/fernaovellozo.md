@@ -4,7 +4,7 @@ title: Fernão Vellozo
 image: fernaovellozo
 excerpt: Fernão Vellozo
 ---
-![Fernão Vellozo]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Fernão Vellozo" height="300" width="300"/></p>
 
 ### Palestra: Roteadores Livres: redes mesh em OpenWRT
 

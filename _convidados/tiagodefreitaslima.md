@@ -4,7 +4,7 @@ title: Tiago de Freitas Lima
 image: tiagodefreitaslima
 excerpt: Tiago de Freitas Lima
 ---
-![William]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Tiago de Freitas Lima" height="300" width="300"/></p>
 
 ### Palestra: Big "Open Source" Data
 

@@ -4,7 +4,7 @@ title: Klaibson Ribeiro
 image: klaibsonribeiro
 excerpt: Klaibson Ribeiro
 ---
-![Klaibson Ribeiro]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Klaibson Ribeiro" height="300" width="300"/></p>
 
 ### Palestra: LibreOffice Online
 

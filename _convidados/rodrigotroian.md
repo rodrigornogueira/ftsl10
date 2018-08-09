@@ -4,7 +4,7 @@ title: Rodrigo Troian
 image: rodrigotroian
 excerpt: Rodrigo Troian
 ---
-![Rodrigo Troian]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Rodrigo Troian" height="300" width="300"/></p>
 
 ### Palestra: Roteadores Livres: redes mesh em OpenWRT
 

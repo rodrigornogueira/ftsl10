@@ -4,7 +4,7 @@ title: Antonio Carlos Tiboni
 image: antoniotiboni
 excerpt: Antonio Tiboni
 ---
-![Antonio Tiboni]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Antonio Tiboni" height="300" width="300"/></p>
 
 ### Palestra: Software Livre como Politica de Governo
 

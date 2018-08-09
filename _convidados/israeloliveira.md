@@ -4,7 +4,7 @@ title: Israel Oliveira
 image: israeloliveira
 excerpt: Israel Oliveira
 ---
-![Israel Oliveira]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Israel Oliveira" height="300" width="300"/></p>
 
 ### Palestra: Como Crescer Rápido e Hackear a Carreira
 

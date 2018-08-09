@@ -4,7 +4,7 @@ title: Vinícius Bail Alonso
 image: viniciusbailalonso
 excerpt: Vinícius Bail Alonso
 ---
-![Vinícius Bail Alonso]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Vinícius Bail Alonso" height="300" width="300"/></p>
 
 ### Minicurso: Docker: do Hello World ao deploy
 

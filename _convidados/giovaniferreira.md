@@ -4,7 +4,7 @@ title: Giovani Ferreira
 image: giovaniferreira
 excerpt: Giovani Ferreira
 ---
-![Giovani Ferreira]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Giovani Ferreira" height="300" width="300"/></p>
 
 ### Palestra: Colabore com projetos de Software Livre e impulsione sua carreira
 

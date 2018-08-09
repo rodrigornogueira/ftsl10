@@ -4,7 +4,7 @@ title: Daniel Coradini Schwarz
 image: danielcoradinischwarz
 excerpt: Daniel Coradini Schwarz
 ---
-![Daniel Coradini Schwarz]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Daniel Coradini Schwarz" height="300" width="300"/></p>
 
 ### Palestra: Análise de estimativa de erro aplicada a problemas de Interação Fluido-Estrutura
 

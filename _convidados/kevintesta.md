@@ -4,7 +4,7 @@ title: Kevin Testa
 image: kevintesta
 excerpt: Kevin Testa
 ---
-![Kevin Testa]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Kevin Testa" height="300" width="300"/></p>
 
 ### Palestra: OpenTSDB - Implantação de um distribuído e escalável banco de dados temporal
 

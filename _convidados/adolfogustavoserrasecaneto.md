@@ -4,7 +4,7 @@ title: Adolfo Gustavo Serra Seca Neto
 image: adolfogustavoserrasecaneto
 excerpt: Adolfo Gustavo Serra Seca Neto
 ---
-![Adolfo Gustavo Serra Seca Neto]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Adolfo Gustavo Serra Seca Neto" height="300" width="300"/></p>
 
 ### Minicurso: Coding Dojo com Elixir
 

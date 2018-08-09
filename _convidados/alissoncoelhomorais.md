@@ -4,7 +4,7 @@ title: Alisson Coelho Morais
 image: alissoncoelhomorais
 excerpt: Alisson Coelho Morais
 ---
-![Alisson Coelho Morais]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Alisson Coelho Morais" height="300" width="300"/></p>
 
 ### Palestra: git do mochileiro das galaxias - A comunidade, seu curriculo e tudo mais...
 

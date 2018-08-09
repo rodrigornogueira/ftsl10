@@ -4,7 +4,8 @@ title: Jonas Liebl
 image: jonasliebl
 excerpt: Jonas Liebl
 ---
-![Jonas Liebl]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Jonas Liebl" height="300" width="300"/></p>
 
 
 ### Minicurso: O software R como ferramenta para gestão financeira

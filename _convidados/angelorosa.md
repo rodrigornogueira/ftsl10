@@ -4,7 +4,7 @@ title: Ângelo Rosa
 image: angelorosa
 excerpt: Ângelo Rosa
 ---
-![Ângelo Rosa]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Ângelo Rosa" height="300" width="300"/></p>
 
 ### Minicurso: Como criar peças publicitárias com ferramentas livres
 

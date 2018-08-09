@@ -4,7 +4,7 @@ title: Victor Williams Stafusa da Silva
 image: victorwilliamsstafusadasilva
 excerpt: Victor Williams Stafusa da Silva
 ---
-![Victor Williams Stafusa da Silva]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Victor Williams Stafusa da Silva" height="300" width="300"/></p>
 
 ### Palestra: Simplificando o Java com Lombok
 

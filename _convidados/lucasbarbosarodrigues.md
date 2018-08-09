@@ -4,7 +4,7 @@ title: Lucas Barbosa Rodrigues
 image: lucasbarbosarodrigues
 excerpt: Lucas Barbosa Rodrigues
 ---
-![Lucas Barbosa Rodrigues]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Lucas Barbosa Rodrigues" height="300" width="300"/></p>
 
 ### Palestra: Inicio com React Native
 

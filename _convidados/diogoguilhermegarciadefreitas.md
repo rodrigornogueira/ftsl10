@@ -4,7 +4,7 @@ title: Diogo Guilherme Garcia de Freitas
 image: diogoguilhermegarciadefreitas
 excerpt: Diogo Guilherme Garcia de Freitas
 ---
-![Diogo Guilherme Garcia de Freitas]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Diogo Guilherme Garcia de Freitas" height="300" width="300"/></p>
 
 ### Minicurso: Mini-curso de Perl
 

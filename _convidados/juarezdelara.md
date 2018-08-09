@@ -4,7 +4,7 @@ title: Juarez de Lara
 image: juarezdelara
 excerpt: Juarez de Lara
 ---
-![Juarez de Lara]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Juarez de Lara" height="300" width="300"/></p>
 
 ### Palestra: Smartcash - Criptomoeda inteligente e funcional
 

@@ -4,7 +4,7 @@ title: Oscar Isauro Bacelar Marques
 image: oscarisaurobacelarmarques
 excerpt: Oscar Isauro Bacelar Marques
 ---
-![Oscar Isauro Bacelar Marques]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Oscar Isauro Bacelar Marques" height="300" width="300"/></p>
 
 ### Palestra: Enquanto uns choram, outros analisam firmwares
 

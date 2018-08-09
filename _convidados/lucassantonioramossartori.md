@@ -4,7 +4,7 @@ title: Lucas Antonio Ramos Sartori
 image: lucasantonioramossartori
 excerpt: Lucas Antonio Ramos Sartori
 ---
-![Lucas Antonio Ramos Sartori]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Lucas Antonio Ramos Sartori" height="300" width="300"/></p>
 
 ### Minicurso: Kotlin no Android
 

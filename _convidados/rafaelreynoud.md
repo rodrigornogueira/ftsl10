@@ -4,7 +4,8 @@ title: Rafael Reynoud
 image: rafaelreynoud
 excerpt: Rafael Reynoud
 ---
-![William]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Rafael Reynoud" height="300" width="300"/></p>
 
 ### Minicurso: Docker: do Hello World ao deploy
 

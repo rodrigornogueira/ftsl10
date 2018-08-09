@@ -4,7 +4,7 @@ title: André Cardoso
 image: andrecardoso
 excerpt: André Cardoso
 ---
-![André Cardoso]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="André Cardoso" height="300" width="300"/></p>
 
 ### Palestra: TDD no mundo real com PHP
 

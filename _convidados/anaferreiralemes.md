@@ -4,7 +4,7 @@ title: Ana Ferreira Lemes
 image: anaferreiralemes
 excerpt: Ana Ferreira Lemes
 ---
-![Ana Ferreira Lemes]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Ana Ferreira Lemes" height="300" width="300"/></p>
 
 ### Palestra: A inclusão das mulheres na área de TI
 

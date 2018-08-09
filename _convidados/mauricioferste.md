@@ -4,7 +4,7 @@ title: Maurício Ferste
 image: mauricioferste
 excerpt: Maurício Ferste
 ---
-![Maurício Ferste]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Maurício Ferste" height="300" width="300"/></p>
 
 ### Palestra: Experiências na aprendizagem de jovens estudantes Portadores de Deficiências (PCD's) em Instituições de Ensino
 

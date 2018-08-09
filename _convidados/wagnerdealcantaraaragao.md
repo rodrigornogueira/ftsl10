@@ -4,7 +4,7 @@ title: Wagner de Alcântara Aragão
 image: wagnerdealcantaraaragao
 excerpt: Wagner de Alcântara Aragão
 ---
-![Wagner de Alcântara Aragão]({{ site.baseurl }}/convidados/{{ page.image }}.jpg)
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Wagner de Alcântara Aragão" height="300" width="300"/></p>
 
 ### Palestra: O software livre e a liberdade de expressão
 

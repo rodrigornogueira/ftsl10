@@ -15,6 +15,6 @@ Referenciais: levantamentos do Fórum Nacional pela Democratização das Comunic
 
 #### Currículo
 
-Wagner de Alcântara Aragão, jornalista e professor. Mestre em Estudos de Linguagens. Editor geral e mantenedor da Rede Macuco - Mí­dia e Cursos. Docente da rede estadual de ensino técnico do Paraná.
+Wagner de Alcântara Aragão, jornalista e professor. Mestre em Estudos de Linguagens. Editor geral e mantenedor da Rede Macuco - Mídia e Cursos Progressistas (www.redemacuco.com.br). Professor de disciplinas de Comunicação e Marketingda rede estadual de ensino técnico do Paraná. Currículo Lattes: http://lattes.cnpq.br/3400479948264701.
 
 <a href="{{ site.baseurl }}/index.html">Voltar</a>

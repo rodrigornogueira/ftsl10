@@ -1,10 +1,10 @@
 ---
 layout: post
-title: William
-image: william
-excerpt: William
+title: William Trochmann
+image: williamtrochmann
+excerpt: William Trochmann
 ---
-<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="William" height="300" width="300"/></p>
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="William Trochmann" height="300" width="300"/></p>
 
 ### Palestra: Desenvolvendo projetos de Business Intelligence utilizando o framework SD3
 

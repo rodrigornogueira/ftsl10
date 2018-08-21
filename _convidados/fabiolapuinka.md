@@ -4,7 +4,7 @@ title: Fábio Lapuinka
 image: fabiolapuinka
 excerpt: Fábio Lapuinka
 ---
-<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="William"/ height="300" width="300"></p>
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Fábio Lapuinka" height="300" width="300"></p>
 
 ### Palestra: OpenStreet Maps, uma alternativa ao Google Maps
 

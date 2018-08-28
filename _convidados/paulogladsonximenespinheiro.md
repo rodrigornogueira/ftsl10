@@ -8,7 +8,7 @@ excerpt: Paulo Gladson Ximenes Pinheiro
 
 ### Palestra: Projeto Sterna sua Geolocalização com OpenSource e OpenData
 
-Um passeio no mundo da Geolocalização com códigos, Dados e Padrões Abertos. Apresentação de solução que reêne várias ferramentas em software livre para prover um sistema de consultas e visualização geográfica em aplicações Web para desktop e mobile.
+Um passeio no mundo da Geolocalização com códigos, Dados e Padrões Abertos. Apresentação de solução que reúne várias ferramentas em software livre para prover um sistema de consultas e visualização geográfica em aplicações Web para desktop e mobile.
  
 
 #### Currículo

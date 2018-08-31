@@ -10,7 +10,7 @@ excerpt: Jonas Liebl
 
 ### Minicurso: O software R como ferramenta para gestão financeira
 
-O software R se destaca como uma ferramenta estatÃ­stica e esse estigma já é suficiente para desestimular o seu uso por profissionais de outras áreas. Ocorre que os seus comandos e a elevada capacidade de processamento podem facilitar a execução de atividades completamente distintas desse segmento, sendo úteis inclusive para uso no ambiente doméstico de uma famí­lia. O objetivo desse minicurso é de desmistificar o R quanto ao seu caráter exclusivamente estatí­stico e fazer uso das suas potencialidades num ensaio voltado para a gestão financeira, incluindo decisões de compras e financiamentos.
+O software R se destaca como uma ferramenta estatística e esse estigma já é suficiente para desestimular o seu uso por profissionais de outras áreas. Ocorre que os seus comandos e a elevada capacidade de processamento podem facilitar a execução de atividades completamente distintas desse segmento, sendo úteis inclusive para uso no ambiente doméstico de uma famí­lia. O objetivo desse minicurso é de desmistificar o R quanto ao seu caráter exclusivamente estatí­stico e fazer uso das suas potencialidades num ensaio voltado para a gestão financeira, incluindo decisões de compras e financiamentos.
 
 #### Currículo
 

@@ -31,7 +31,8 @@ O JPA 2.1 é uma ferramenta moderna para fazer um mapeamento objeto-relacional f
 
 ### Palestra: Saindo da era mesozóica do Java em direção ao Java 11
 
-Muita gente que aprendeu Java não conseguiu acompanhar mais as mudanças que a linguagem sofreu desde que a Sun se foi. Este curso visa a atualizar essas pessoas que ainda vivem na era do Java 6 e trazê-las à época do Java 11 mostrando o que é mais importante de se aprender para tal objetivo. Serão abordados: Notação diamante; multicatch; try-with-resources; lambdas; interfaces funcionais; referências a métodos; streams; métodos default, estáticos e privados em interfaces; a nova API para data/hora; mãdulos; novos métodos para criar coleções imutáveis; o JShell (REPL); log unificado; declara variáveis com "var"; o uso do shebang no Java e o novo cliente HTTP padrão.
+Muita gente que aprendeu Java não conseguiu acompanhar mais as mudanças que a linguagem sofreu desde que a Sun se foi. Este curso visa a atualizar essas pessoas que ainda vivem na era do Java 6 e trazê-las à época do Java 11 mostrando o que é mais importante de se aprender para tal objetivo. Serão abordados: Notação diamante; multicatch; try-with-resources; lambdas; interfaces funcionais; referências a métodos; streams; métodos default, estáticos e privados em interfaces; a nova API para data/hora; módulos; novos métodos para criar coleções imutáveis; o JShell (REPL); log unificado; declara variáveis com "var"; o uso do shebang no Java e o novo cliente HTTP padrão.
+
 
 #### Currículo
 

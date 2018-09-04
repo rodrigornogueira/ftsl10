@@ -17,6 +17,7 @@ Possui graduação em Engenharia de Software - Bacharelado em Informática pela 
 Produção científica:
 
 * <a href="https://repositorio.ufscar.br/handle/ufscar/9138">Newsminer: um sistema de data warehouse baseado em texto de notícias</a>
+* <a href="http://www.revistas2.uepg.br/index.php/ijac/article/view/8424">Big Data: An Approach on Apache Hadoop</a>
 
 
 <a href="{{ site.baseurl }}/index.html">Voltar</a>
